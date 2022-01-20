@@ -4,3 +4,4 @@ This repository demonstrates an example of teamwork on a single project.
 Developers:
 
 * Morozov Andrii
+* Mgbemena Christian
